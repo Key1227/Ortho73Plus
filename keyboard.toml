@@ -35,9 +35,9 @@ matrix_map = """
 name = "base_layer"
 keys = """
 ESC   1     2     3     4     5     6     7     8     9     0     MINS  EQL   BSPC  DEL
-TAB   Q     W     F     P     B     NO    NO    J     L     U     Y     ;     bsls  _
-CAPS  A     R     S     T     G     [     ]     M     N     E     I     O     '     _
-LSFT  Z     X     C     D     V     NO    NO    K     H     ,     .     /     UP    _
+TAB   Q     W     F     P     B     NO    NO    J     L     U     Y     SCLN  BSLS  MUTE
+CAPS  A     R     S     T     G     LBRC  RBRC  M     N     E     I     O     QUOTE NO
+LSFT  Z     X     C     D     V     NO    NO    K     H     COMMA DOT   SLASH UP    MO(1)
 LCTL  LWIN  LALT  MO(1) SPACE       BSPC  DEL   ENTER       MO(1) RALT  LEFT  DOWN  RIGHT
 """
 encoders = [["AudioVolUp", "AudioVolDown"], ["PageDown", "PageUp"]]
