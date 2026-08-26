@@ -46,7 +46,7 @@ encoders = [["AudioVolUp", "AudioVolDown"], ["PageDown", "PageUp"]]
 [[layer]]
 name = "function_layer"
 keys = """
-_     F1    F2    F3    F4    F5    F6    F7    F8    F9    F0    _     _     _     _
+_     F1    F2    F3    F4    F5    F6    F7    F8    F9    F10   F11   F12   _     _
 _     _     _     _     _     _     _     _     KP7   KP8   KP9   _     _     _     _
 _     _     _     _     _     _     _     _     KP4   KP5   KP6   _     _     _     _
 _     _     _     _     _     _     _     _     KP1   KP2   KP3   _     _     _     _
