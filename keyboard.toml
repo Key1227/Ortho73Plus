@@ -3,7 +3,7 @@ name = "Ortho73Plus"
 product_name = "Ortho73Plus"
 vendor_id = 0x4c4b
 product_id = 0x4643
-manufacturer = "K.Yoshi"
+manufacturer = "Key1227"
 chip = "stm32f072cb"
 
 [matrix]
